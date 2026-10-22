@@ -1,0 +1,12 @@
+{
+  "name": "homebridge-shelly-color-gen3-onoff",
+  "version": "0.1.2",
+  "description": "Homebridge on/off control for Shelly Color Bulb Gen3 over local HTTP RPC",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18",
+    "homebridge": ">=1.6.0"
+  },
+  "keywords": ["homebridge-plugin"],
+  "license": "MIT"
+}

@@ -7,6 +7,12 @@
     "node": ">=18",
     "homebridge": ">=1.6.0"
   },
-  "keywords": ["homebridge-plugin"],
-  "license": "MIT"
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaday/homebridge-shelly-color-gen3-onoff.git"
+  }
 }
